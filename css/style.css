@@ -845,7 +845,7 @@ menu .MPzero {
     .contact .call{
         background-color: black;
         width: 18vw;
-        font-size: 938px;
+        font-size: 0.938rem;
     }
     .contact .call img {
         /* height: 5.9vh; */
