@@ -820,7 +820,7 @@ menu .MPzero {
 
     .call {
         height: 5vh;
-        width: 15vw;
+        width: 18vw;
         border-radius: 77px;
         display: flex;
         align-items: center;
@@ -844,11 +844,14 @@ menu .MPzero {
     }
     .contact .call{
         background-color: black;
+        width: 18vw;
+        font-size: 938px;
     }
     .contact .call img {
-        height: 5.9vh;
+        /* height: 5.9vh; */
         border-radius: 4px;
         margin: 0 0 0.1vh -0.9vw;
+        width: 10vw;
     }
 
     .contact .whatsapp img {
