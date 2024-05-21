@@ -1,5 +1,4 @@
-function book(){
-    
+function book(){   
 }
 function whatsapp(){
     location.href = "https://wa.me/971544304980?text=%3Welcome%20To%20World!";
@@ -7,5 +6,3 @@ function whatsapp(){
 function call(){
     location.href = "tel:+971544304980";
 }
-// whatsapp()
-// console.log();

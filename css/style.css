@@ -645,6 +645,7 @@ menu .MPzero {
 
     .productCard .img img {
         height: 20vh;
+        border-radius: 9px 9px 0 0;
         width: -webkit-fill-available;
     }
 
@@ -753,7 +754,9 @@ menu .MPzero {
         color: #272727;
         margin-left: 0.3vh;
     }
-
+    .tickBox input{
+        width: 7vw;
+    }
     .tickBox {
         margin: 1vh 0 0 0;
         display: flex;
@@ -771,9 +774,13 @@ menu .MPzero {
     .tickBox p {
         font-family: "Raleway", sans-serif;
         font-weight: 500;
+        line-height: 10px;
+        height: 14px;
     }
-
-    .message {
+    .message input{
+        height: 14vh;
+    }
+    .message{
         margin: 2vh 0 0 0;
     }
 
